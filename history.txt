@@ -1,0 +1,209 @@
+    1  Is
+    2  is
+    3  1s
+    4  1s
+    5  1S
+    6  1s
+    7  1s /data
+    8  1s /
+    9  cd 1s
+   10  ls
+   11  ls
+   12  ls /data
+   13  ls /
+   14  pwd
+   15  pwd
+   16  mkdir lindo
+   17  mkdir gg
+   18  cd home
+   19  /
+   20  mkdir lindo
+   21  cd nqobi
+   22  ls
+   23  pwd
+   24  cd bin
+   25  mkdir lindo
+   26  cd /
+   27  cd documents
+   28  pwd
+   29  cd ..
+   30  cd bin
+   31  cd ..
+   32  cd /
+   33  pwd
+   34  cd ~
+   35  pwd
+   36  mkdir lindo
+   37  cd lindo
+   38  cd ..
+   39  pwd
+   40  ls
+   41  cd lindo
+   42  cd /c/Users/Nqobi
+   43  pwd
+   44  cd lindo
+   45  cd ..
+   46  mkdir lindo/small
+   47  cd lindo
+   48  cd small
+   49  cd ../..
+   50  pwd
+   51  cd /
+   52  pwd
+   53  cd 
+   54  pwd
+   55  ls -l
+   56  man ls
+   57  man cd
+   58  pwd
+   59  cd lindo
+   60  rmdir small
+   61  cd ..
+   62  rmdir lindo
+   63  pwd
+   64  cd .gitconfig
+   65  git config --list --show-origin
+   66  git config --global user.name "Lindokuhle Shabalala"
+   67  git config --global user.email mlixshaba@gmail.com
+   68  pwd
+   69  git config user.name
+   70  git --version
+   71  git config user.email
+   72  pwd
+   73  git clone --recursive git@github.com:Umuzi-org/ACN-syllabus.git lindo
+   74  ls
+   75  git clone https://github.com/Lindokuhle001/ACN-syllabus lindo
+   76  pwd
+   77  cd lindo
+   78  ls
+   79  git status
+   80  git add -A
+   81  git status
+   82  git commit -m "fixed spelling error"
+   83  git status
+   84  git diff
+   85  git pull lindo
+   86  git pull
+   87  git push
+   88  cd ~
+   89  cd lindo
+   90  ls
+   91  git status
+   92  git push ACN-syllabus develop
+   93  git push develop
+   94  git push
+   95  cd ~
+   96  cd lindo
+   97  ls
+   98  git remote
+   99  git push origin develop
+  100  git status
+  101  git diff
+  102  git status
+  103  git status
+  104  git add -A
+  105  git status
+  106  git commit -m "fixed spelling errors"
+  107  git remote
+  108  git pull origin develop
+  109  git push origin develop
+  110  cd ..
+  111  pwd
+  112  mkdir git-basic-exercises
+  113  cd git-basic-exercises
+  114  ls -a
+  115  ls
+  116  pwd
+  117  git init
+  118  ls
+  119  ls -a
+  120  git status
+  121  touch README.md
+  122  git status
+  123  ls -a
+  124  git log
+  125  git add -A
+  126  git status
+  127  git restore -A
+  128  git restore git README.MD
+  129  git restore git README.md
+  130  git status
+  131  git commit -m "initial commit"
+  132  git log
+  133  nano README.md
+  134  cat README.md
+  135  git stats
+  136  git status
+  137  git add -A
+  138  nano README.md
+  139  cat README.md
+  140  git add -A
+  141  git stats
+  142  git status
+  143  git commit -m "commit 2"
+  144  nano README.md
+  145  git add -A
+  146  git commit -m "third commit"
+  147  cd ~
+  148  mkdir git-basic-exercises
+  149  ls -a
+  150  cd git-basic-exercises
+  151  ls -a
+  152  git status
+  153  touch README.md
+  154  ls -a
+  155  git status
+  156  git log
+  157  mkdir git-basic-exercises 
+  158  cd ~
+  159  mkdir git-basic-exercises 
+  160  cd git-basic-exercises 
+  161  ls -a
+  162  git init
+  163  git status
+  164  ls -a
+  165  git log
+  166  touch README.md
+  167  ls -a
+  168  git log
+  169  git add -A
+  170  git status
+  171  git rn --cached README.md
+  172  git rm --cached README.md
+  173  git status
+  174  git add -A
+  175  git commit -m "initial commit"
+  176  git log
+  177  q
+  178  nano README.md
+  179  cat README.md
+  180  git status
+  181  git add -A
+  182  git commit -m "second commit"
+  183  nano README.md
+  184  git add -A
+  185  git commit -m "third commit"
+  186  git log
+  187  git checkout  3bf5253e4c2f97f85a41c44731a95fb5faf827ad
+  188  cat README.md
+  189  git checkout  main
+  190  git checkout master
+  191  cat README.md
+  192  git branch
+  193  git branch milkshake-flavours
+  194  git branch
+  195  git checkout milkshake-flavours
+  196  git branch
+  197  nano milkshakes.md
+  198  git status
+  199  git add -a
+  200  git add -A
+  201  git commit "added initial flavours"
+  202  git commit -m "added initial flavours"
+  203  git log
+  204  git checkout master
+  205  git log
+  206  git branch history
+  207  git log
+  208  git branch
+  209  history > history.txt
